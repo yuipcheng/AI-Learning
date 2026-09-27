@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="TalkingKawa247/TalkingKawa247.csproj" />
+  <Project Path="ToolCallingExample/ToolCallingExample.csproj" />
 </Solution>
